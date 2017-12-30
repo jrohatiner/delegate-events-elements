@@ -1,0 +1,25 @@
+body {
+   margin: 0 auto;
+}
+h1 {
+   font-size: 36px;
+}
+header {
+   width: 100%;
+   background-color: goldenrod;
+   padding: 10px;
+   margin-bottom: 10px;
+}
+
+#gallery {
+    text-align: center;
+    width: 100%;
+}
+
+#gallery a {
+    text-decoration: none;
+    width: inherit;
+}
+#gallery a.active {
+    opacity: 0.5;
+}
